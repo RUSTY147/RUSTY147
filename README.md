@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on ... Lua, Fivem development 
 - 🤔 I’m looking for help with ...  Lua
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...[Linkdin profile](https://www.linkedin.com/in/k-v-r-l-krishna-ajay-7b7512211/),[gmail](kasiajay40@gmail.com),[Discord](https://discord.gg/KFFNS7cwuy)
+- 📫 How to reach me: ...[Linkdin profile](https://www.linkedin.com/in/k-v-r-l-krishna-ajay-7b7512211/),[Gmail](kasiajay40@gmail.com),[Discord](https://discord.gg/KFFNS7cwuy)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.
 - 👨‍🔧 Specilization ... Data science and Big data analysis

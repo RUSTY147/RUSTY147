@@ -1,7 +1,7 @@
 ### Hi there this is Rusty A.K.A K.V.R.L KRISHNA AJAY a passionaite programer.👋
 
-<!--
-**RUSTY147/RUSTY147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!**RUSTY147/RUSTY147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.
 - 👨‍🔧 Specilization ... Data science and Big data analysis
 - 👨‍💻 Programing languages known ... C,JAVA,PYTHON,LUA,HTML,CSS,JAVASCRIPT
--->
+

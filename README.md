@@ -3,8 +3,9 @@
 
 <!--**RUSTY147/RUSTY147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
+- 🏫 I'm currently studying in ...  K L UNIVERSITY Hyderabad
 - 🔭 I’m currently working on ... my studies
 - 🌱 I’m currently learning ...   Machine learning
 - 👯 I’m looking to collaborate on ... Lua, Fivem development 

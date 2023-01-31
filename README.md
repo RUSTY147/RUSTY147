@@ -5,8 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🏫 I'm currently studying in ...  K L UNIVERSITY Hyderabad
-- 🔭 I’m currently working on ... my studies
+
 - 🌱 I’m currently learning ...   Machine learning
 - 👯 I’m looking to collaborate on ... Lua, Fivem development 
 - 🤔 I’m looking for help with ...  Lua
